@@ -54,10 +54,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paddy217&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karankantesariya120198&show_icons=true&theme=tokyonight" />
   
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paddy217&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karankantesariya120198&theme=tokyonight" />
 </p>
 
 ---
