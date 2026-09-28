@@ -1,58 +1,231 @@
-<div align="center" style="position: relative; text-align: center;">
-  <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW05Z3h0eGVtb3MxbTYzbjFmZW9qM3U3dzM1ejA0ZnVlY2Y3YWI0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-    alt="Banner GIF" 
-    style="width: 100%; height: 50%; border-radius: 8px;"
-  />
+# Hi, I'm Karan Patel 👋
 
-  <!-- Overlay Message -->
-  <div style="margin-top: -150px; font-size: 26px; font-weight: bold; color: white;">
-    Let’s Connect and have a Chat! 💬
-  </div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img src="./dark.svg" alt="Karan Patel — Senior Software Engineer">
+  </picture>
+</p>
 
-  <!-- Social Icons -->
-  <p style="margin-top: 20px;">
-    <a href="https://in.linkedin.com/in/karankantesariya" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
-    </a>
-    &nbsp;
-    <a href="mailto:karankantesariya123@gmail.com" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/karankantesariya" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" />
-    </a>
-  </p>
+<p align="center">
+  <b>Senior Software Engineer · Full-Stack Development · Backend Systems · APIs & Integrations</b>
+</p>
 
-</div>
+<p align="center">
+  🤖 AI / LLMs &nbsp;·&nbsp;
+  🐍 Python &nbsp;·&nbsp;
+  ⚡ AWS &nbsp;·&nbsp;
+  ⚛️ React.js
+  &nbsp;·&nbsp;
+  ⚙️ Node.js &nbsp;·&nbsp;
+  🧠 System Design
+</p>
+
+I build **AI-powered products, scalable backend systems, SaaS platforms, automation workflows, and production web applications**.
+
+My engineering interests sit at the intersection of **AI/LLMs, Python, serverless systems, full-stack development, backend architecture, API integrations, and developer automation**.
+
+---
+
+## 🤖 What I Build
+
+- 🧠 **AI / LLM applications** — LLM integrations, AI workflows and intelligent product features
+- 🐍 **Python systems** — APIs, automation, AI services and backend tooling
+- 🚀 **SaaS products** — multi-user applications, dashboards, payments and product infrastructure
+- ⚙️ **Backend systems** — APIs, async processing, caching, real-time systems and integrations
+- ⚛️ **Full-stack applications** — React.js, Next.js, Node.js and TypeScript
+- 📈 **Performance & scalability** — production optimization, high-volume processing and system design
+- 🌐 **Third-party integrations** — external APIs, webhooks, GPS, ELD, telematics and business systems
 
 ---
 
-# 💫 About Me:
-👋 About Me<br><br>I'm Karan Patel, a Senior Software Engineer focused on building scalable and reliable software solutions.<br><br>💻 Full-Stack Development | 🌐 REST APIs & Integrations | 📱 Mobile Applications | 🗄️ Database Systems<br><br>I enjoy solving complex engineering problems, designing clean architectures, building third-party integrations, and turning business requirements into production-ready applications.<br><br>🚀 Passionate about clean code, system design, performance, debugging, and continuous learning.<br><br>🤝 Always open to collaborating on interesting projects and connecting with fellow developers.
+## 💼 Experience
 
+### Senior Software Engineer — Codeminks Pvt. Ltd.
+**Feb 2024 – Present**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karankantesariya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karankantesariya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karankantesariya123@gmail.com) 
+Working on scalable software systems with a strong focus on
+AI-assisted development, backend engineering, APIs, integrations,
+and cloud-based applications.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=karankantesariya120198&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=karankantesariya120198&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=karankantesariya120198&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🤖 Using **Claude AI** as an AI pair programmer for feature planning,
+  architecture discussions, backend development, debugging,
+  refactoring, database migration planning, and production issue resolution
+- ⚡ Adopting **AI-first development workflows / Vibe Coding** to
+  accelerate feature delivery while maintaining code quality and
+  engineering standards
+- 🚚 Developing **TracxTMS**, a cloud-based Transportation Management
+  System using **Node.js, React.js, and PostgreSQL**
+- 🏗️ Architecting scalable backend modules for **dispatch management,
+  geofencing, and load coordination**
+- 📍 Integrating third-party GPS tracking platforms including
+  **Samsara, Motive, and Geotab**
+- 🔄 Working on database migration and system modernization initiatives
+- 🚀 Designing and implementing **CI/CD pipelines** using GitHub Actions
+  and Bitbucket
+- 🤝 Collaborating with cross-functional Agile teams to deliver
+  production-ready features within sprint timelines
+- 🧠 Applying **AIDLC workflows** to improve development speed and
+  code quality across modules
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karankantesariya120198&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+### Web Developer — SPEC-INDIA
+**May 2022 – Feb 2024**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 💪 Built full-stack fitness platforms including **INSHAPE** and
+  **SIXPACK** using React.js and Laravel
+- 🔐 Implemented secure authentication using **JWT** for web and
+  mobile applications
+- 📱 Developed dynamic and responsive interfaces with real-time
+  workout tracking features
+- 🌐 Enhanced and maintained the **Gujarat Gas** corporate website
+  with backend optimizations
+- ⚡ Optimized MySQL queries to improve application performance
+  and reduce load times
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=karankantesariya120198&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+### Web Developer — Creole Studios
+**Mar 2020 – Apr 2022**
+
+- 👕 Led development of **MODTOD**, a children's fashion
+  e-commerce platform using Node.js and React.js
+- 🌐 Designed scalable RESTful APIs for product, cart,
+  and order management
+- 💳 Integrated **Stripe** payment gateway with secure
+  OAuth 2.0 and JWT authentication
+- 🎓 Developed **Sixclouds**, an educational content delivery
+  platform using Laravel
+- 🔐 Implemented role-based access control (RBAC)
+- 🔍 Conducted code reviews to maintain application quality
+
+### Web Developer — Samcom Technobrains
+**Sep 2019 – Apr 2020**
+
+- 🛍️ Developed **CADABRA**, an e-commerce platform using
+  Laravel and MySQL
+- 🌐 Built RESTful APIs for product catalog, cart,
+  and order workflows
+- 🔐 Implemented secure authentication using Laravel Auth and JWT
+- 💳 Integrated Stripe payment processing with encryption
+  and token validation
+- 🤝 Collaborated with QA teams to ensure smooth releases
 
 ---
-[![](https://komarev.com/ghpvc/?username=karankantesariya120198&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Engineering Stack
+
+### 🤖 AI / Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&perline=1" alt="Python">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=probot&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini_API-111827?style=for-the-badge&logo=google&logoColor=4285F4">
+  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/FAISS-111827?style=for-the-badge&logo=meta&logoColor=white">
+</p>
+
+### ⚛️ Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,vue&perline=6" alt="Frontend technologies">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Query-111827?style=flat-square&logo=reactquery&logoColor=FF4154">
+  <img src="https://img.shields.io/badge/React_Router-111827?style=flat-square&logo=reactrouter&logoColor=CA4245">
+  <img src="https://img.shields.io/badge/React_Hook_Form-111827?style=flat-square&logo=reacthookform&logoColor=EC5990">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4">
+  <img src="https://img.shields.io/badge/Material_UI-111827?style=flat-square&logo=mui&logoColor=007FFF">
+  <img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=7952B3">
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,laravel,php,graphql&perline=7" alt="Backend technologies">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688">
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square&logo=postman&logoColor=FF6C37">
+  <img src="https://img.shields.io/badge/Socket.IO-111827?style=flat-square&logo=socketdotio&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-111827?style=flat-square&logo=swagger&logoColor=85EA2D">
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&perline=4" alt="Database technologies">
+</p>
+
+### ☁️ Cloud / DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,kubernetes,nginx,jenkins&perline=8" alt="Cloud and DevOps technologies">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_Lambda-111827?style=flat-square&logo=awslambda&logoColor=FF9900">
+  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF">
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-111827?style=flat-square&logo=gitlab&logoColor=FC6D26">
+  <img src="https://img.shields.io/badge/Bitbucket-111827?style=flat-square&logo=bitbucket&logoColor=2684FF">
+</p>
+
+### 🧠 Architecture & Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/API_Architecture-111827?style=for-the-badge&logo=swagger&logoColor=85EA2D">
+  <img src="https://img.shields.io/badge/Microfrontends-111827?style=for-the-badge&logo=webpack&logoColor=8DD6F9">
+  <img src="https://img.shields.io/badge/Real--time_Systems-111827?style=for-the-badge&logo=socketdotio&logoColor=white">
+  <img src="https://img.shields.io/badge/Async_Workflows-111827?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Caching-111827?style=for-the-badge&logo=redis&logoColor=DC382D">
+  <img src="https://img.shields.io/badge/Performance-111827?style=for-the-badge&logo=speedtest&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=karankantesariya120198&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="Karan Patel GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=karankantesariya120198&theme=transparent&hide_border=false" alt="Karan Patel GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=karankantesariya120198&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Karan Patel Top Languages">
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/karankantesariya120198">💻 GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/karankantesariya">💼 LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://instagram.com/karankantesariya">📸 Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:karankantesariya123@gmail.com">📧 Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karankantesariya120198&icon=0&color=1" alt="Profile Views">
+</p>
+
+---
+
+<p align="center">
+  <b>Build clean. Solve hard problems. Ship reliable software. 🚀</b>
+</p>
