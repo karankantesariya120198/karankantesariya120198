@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Senior Software Engineer · Full-Stack Development · Backend Systems · APIs & Integrations</b>
+  <b>AI Engineer · Full-Stack Engineer · Backend Systems · AI & SaaS Builder</b>
 </p>
 
 <p align="center">
