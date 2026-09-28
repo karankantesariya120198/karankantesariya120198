@@ -123,9 +123,7 @@ and cloud-based applications.
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB">
   <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=probot&logoColor=white">
-  <img src="https://img.shields.io/badge/Gemini_API-111827?style=for-the-badge&logo=google&logoColor=4285F4">
   <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=white">
-  <img src="https://img.shields.io/badge/FAISS-111827?style=for-the-badge&logo=meta&logoColor=white">
 </p>
 
 ### ⚛️ Frontend
